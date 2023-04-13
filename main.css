@@ -40,7 +40,7 @@ font-size: 18px;
     text-decoration: underline;
 }
 
-.left-column > div {
+.left-column {
     display: flex;
     flex-direction: column;
     gap: 30px;
