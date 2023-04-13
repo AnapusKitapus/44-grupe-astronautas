@@ -17,9 +17,6 @@ body {
     margin: 30px calc((100% - 900px) / 2);
 }
 
-.main-header {
-}
-
 .logo {
     height: 30px;
     width: 200px;
@@ -51,6 +48,7 @@ font-size: 18px;
 }
 
 .main-title {
+    font-size: 32px;
 }
 
 .main-title > span {
@@ -69,6 +67,7 @@ font-size: 18px;
 }
 
 .description {
+    color: #555
 }
 
 .button-group {
