@@ -111,12 +111,12 @@ font-size: 18px;
     font-size: inherit;
     line-height: 1em;
     text-align: center;
-    color: #CBCCCB;
+    color: #CACBCB;
     text-decoration: none;
 }
 .socials > .social-link:hover {
     color: #674596;
-    margin: -0,25em;
+    margin: -0.25em;
     font-size: 2em;
 }
 
